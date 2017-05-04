@@ -3,3 +3,4 @@ B
 C
 D
 E
+Committing this change second with Tower, without pulling the changes Sourcetree just pushed.
